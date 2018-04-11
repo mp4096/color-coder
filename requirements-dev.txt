@@ -1,0 +1,6 @@
+coverage
+coveralls
+pydocstyle
+pycodestyle
+pytest
+pytest-cov
